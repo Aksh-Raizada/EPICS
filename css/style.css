@@ -98,6 +98,7 @@ header {
 	margin: auto;
 	display: block;
 	background: transparent;
+	max-width: 200px; /* Set maximum width for the button */
 	text-align: center;
 	border: 1px solid #fff;
 	border-radius: 6px;
